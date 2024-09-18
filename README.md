@@ -33,7 +33,7 @@ npm run dev
 ## Authors
 
 Bryce Worley
-[@Brcye-Worley](https://github.com/Bryce-Worley)
+[@Bryce-Worley](https://github.com/Bryce-Worley)
 
 ## Version History
 * 0.1
